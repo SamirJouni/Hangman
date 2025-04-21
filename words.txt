@@ -1,0 +1,1 @@
+hangman, hang, man, rope, word, game, lost, won
